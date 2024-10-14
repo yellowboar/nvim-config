@@ -1,4 +1,4 @@
-# kickstart-modular.nvim
+# my nvim-config
 
 ## Introduction
 
