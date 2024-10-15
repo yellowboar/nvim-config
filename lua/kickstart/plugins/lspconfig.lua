@@ -213,6 +213,7 @@ return {
         'eslint_d',
         'golangci-lint',
         'jsonlint',
+        'markdownlint',
         'stylua', -- Used to format Lua code
       })
       require('mason-tool-installer').setup { ensure_installed = ensure_installed }
