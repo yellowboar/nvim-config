@@ -212,6 +212,7 @@ return {
       vim.list_extend(ensure_installed, {
         'eslint_d',
         'golangci-lint',
+        'jsonlint',
         'stylua', -- Used to format Lua code
       })
       require('mason-tool-installer').setup { ensure_installed = ensure_installed }
